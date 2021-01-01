@@ -6,7 +6,7 @@
 }
 .navbar{
     background-color: #333333;
-    overflow: auto;
+    overflow: hidden;
     vertical-align: top;
 }
 .navbar h2{
